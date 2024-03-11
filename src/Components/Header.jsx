@@ -16,7 +16,7 @@ const Header = () => {
         <Navbar.Brand href="#" className="font-bold ">
           Shop<span className="text-sky-600">Zone</span>
         </Navbar.Brand>
-        <Link style={{ textDecoration: "none", color: "black" }} to={"/"}>
+        <Link style={{ textDecoration: "none", color: "black" }} to={"/ShopingKart-react/"}>
           <h5 className="mt-1.5 lg:hidden underline">Home</h5>
         </Link>
         <div className="flex">
